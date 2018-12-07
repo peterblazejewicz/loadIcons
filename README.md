@@ -1,4 +1,7 @@
 # loadIcons
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/loadIcons.svg)](https://greenkeeper.io/)
+
 > Load SVG icon sprites safely and asynchronously
 
 ## Installation
